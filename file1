@@ -1,5 +1,8 @@
 added to check stash
 second line
+<<<<<<< HEAD
 forth line
 third line
 reset
+=======
+>>>>>>> parent of 9b7eebe (stash added)
